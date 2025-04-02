@@ -19,9 +19,9 @@ Google Sheets
 - Demonstrate strong spreadsheet-based analysis skills for business intelligence applications
 
 ## Screenshots
--
--
--
+- NYC1 - Bar graph of top 10 neighborhoods for AirBnB listings
+- NYC2 - Bar graph of the most popular number of bedrooms rented
+- NYC3 - Line graph of most popular number of bedrooms and top 10 neighborhoods
 
 ## Status
 Completed – January 2025
